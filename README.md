@@ -20,4 +20,6 @@ As IBMQ by default only uses two levels of the transmon qubit, which is in fact 
 ## The three states
 <img src="./Figures/States.png" width="600">
 
+## Parametrized Circuit
+<img src="./Figures/Parametrized_circuit.png" width="600">
 
