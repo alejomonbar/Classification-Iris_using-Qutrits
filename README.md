@@ -10,3 +10,7 @@ As IBMQ by default only uses two levels of the transmon qubit, which is in fact 
 * Iris data set extraction and normalization
 * Paramaetrized circuit for the classification and Cost function model
 * Regularization and training
+
+## Frequency calibration
+<img src="./Figures/frequency_cal.png" width="600">
+
