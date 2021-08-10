@@ -14,3 +14,10 @@ As IBMQ by default only uses two levels of the transmon qubit, which is in fact 
 ## Frequency calibration
 <img src="./Figures/frequency_cal.png" width="600">
 
+## Amplitude calibration
+<img src="./Figures/amp_cal.png" width="600">
+
+## The three states
+<img src="./Figures/States.png" width="600">
+
+
